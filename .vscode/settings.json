@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d7d461fe-7a16-4ba1-a6f7-281861af2dd7/resourceGroups/appsvc_linux_westus3_basic/providers/Microsoft.Web/sites/Azure-Demo-cheese-finder",
+    "appService.deploySubpath": "."
+}
